@@ -1,15 +1,7 @@
-# DSCZ9_final_project
+# Butterflies_Austria_SDA_DSCZ9_final_project
 
-For installing:
+The final project for Data Science course.
 
-check python version - > I used Python 3.8.10 64 bit
-cmd command: py --list
+We chose a dataset of pictures of butterflies on Kaggle and tried to train the best possible model for classification of butterflies.
 
-create venv for the project from requirements.txt file
-cmd command: py -3.8 -m venv .venv
-
-activate env
-cmd command: .venv\Scripts\activate 
-
-install libs:
-cmd command: pip install -r requirements.txt
+The notebook includes dataset description, data sample display, preprocessing, modelling and classification accuracy evaluation.
